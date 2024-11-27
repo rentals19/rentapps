@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "rental-4cbc1"
+  },
+  "targets": {},
+  "etags": {
+    "rental-4cbc1": {
+      "extensionInstances": {}
+    }
+  }
+}
